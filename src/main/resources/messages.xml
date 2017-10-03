@@ -1,0 +1,12 @@
+<messages>
+    <message>
+        <to>angelolena2@gmail.com</to>
+        <subject>Subject Name</subject>
+        <text>Some text</text>
+    </message>
+    <message name="incorrect">
+        <to>dfg</to>
+        <subject>Subject Name</subject>
+        <text>Some text</text>
+    </message>
+</messages>
